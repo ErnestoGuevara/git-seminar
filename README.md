@@ -32,3 +32,4 @@ Hands on live programming activity
 * [Machine Learning git repository](https://github.com/ageron/handson-ml)
 * [GitHub standard fork and pull](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 * [Working with forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
+* [GitLab is a good option to github](https://gitlab.com)
